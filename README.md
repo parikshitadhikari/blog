@@ -1,9 +1,3 @@
-## About the project
-
-A blog project, built using the following technologies:
-
-**EJS, Node.js, Express.js, MongoDB**
-
 # Blog
 
 The project is made using
